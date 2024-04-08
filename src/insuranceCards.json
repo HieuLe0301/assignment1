@@ -1,0 +1,14 @@
+[
+  {
+    "cardNumber": "0000000000",
+    "cardHolder": "c0000000",
+    "policyOwner": "c0000000",
+    "expirationDate": "2025-01-01"
+  },
+  {
+    "cardNumber": "0000000001",
+    "cardHolder": "c0000001",
+    "policyOwner": "c0000001",
+    "expirationDate": "2025-02-02"
+  }
+]
