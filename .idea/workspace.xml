@@ -1,33 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f79a0201-fb4a-48ee-9982-d307088c269c" name="Changes" comment="" />
+    <list default="true" id="f79a0201-fb4a-48ee-9982-d307088c269c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Claim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Claim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClaimProcessManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClaimProcessManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dependent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dependent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InsuranceCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InsuranceCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PolicyHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PolicyHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StaticCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StaticCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/claims.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/claims.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dependents.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/dependents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dependents.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dependents.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/insuranceCards.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/insuranceCards.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/policyholders.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/policyholders.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/dependents.txt" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2dbdQISFjix1wxijJF71cyJvMVk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "app.teamhub.trackedBranches": "-o76agp/main",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/Coding/RMIT/FurtherProgramming/assignment1/src/Main.java"
+    "last_opened_file_path": "C:/Users/Admin/Downloads/jaxb-api-2.2.3.jar",
+    "onboarding.tips.debug.path": "D:/Coding/RMIT/FurtherProgramming/assignment1/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-azul-20.0.2-4caba194b151-eb49e076" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,13 +93,24 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/src/InsuranceCard.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

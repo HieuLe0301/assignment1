@@ -1,0 +1,107 @@
+[
+  {
+    "id": "c5000000",
+    "fullName": "Nguyen Van Nam",
+    "insuranceCard": "5000000000",
+    "claimsIDs": ["f000000000", "f000000001"],
+    "dependents": ["c0000000", "c0000001"]
+  },
+  {
+    "id": "c5000001",
+    "fullName": "Tran Thi Thu",
+    "insuranceCard": "5000000001",
+    "claimsIDs": ["f000000002", "f000000003"],
+    "dependents": ["c0000002", "c0000003"]
+  },
+  {
+    "id": "c5000002",
+    "fullName": "Le Van Hieu",
+    "insuranceCard": "5000000002",
+    "claimsIDs": ["f000000004", "f000000005"],
+    "dependents": ["c0000004", "c0000005"]
+  },
+  {
+    "id": "c5000003",
+    "fullName": "Pham Thi Kim",
+    "insuranceCard": "5000000003",
+    "claimsIDs": ["f000000006", "f000000007"],
+    "dependents": ["c0000006", "c0000007"]
+  },
+  {
+    "id": "c5000004",
+    "fullName": "Vo Van Thanh",
+    "insuranceCard": "5000000004",
+    "claimsIDs": ["f000000008", "f000000009"],
+    "dependents": ["c0000008", "c0000009"]
+  },
+  {
+    "id": "c5000005",
+    "fullName": "Tran Thi Nga",
+    "insuranceCard": "5000000005",
+    "claimsIDs": ["f000000010", "f000000011"],
+    "dependents": ["c0000010", "c0000011"]
+  },
+  {
+    "id": "c5000006",
+    "fullName": "Nguyen Van Quan",
+    "insuranceCard": "5000000006",
+    "claimsIDs": ["f000000012", "f000000013"],
+    "dependents": ["c0000012", "c0000013"]
+  },
+  {
+    "id": "c5000007",
+    "fullName": "Le Thi Hien",
+    "insuranceCard": "5000000007",
+    "claimsIDs": ["f000000014", "f000000015"],
+    "dependents": ["c0000014", "c0000015"]
+  },
+  {
+    "id": "c5000008",
+    "fullName": "Tran Van Anh",
+    "insuranceCard": "5000000008",
+    "claimsIDs": ["f000000016", "f000000017"],
+    "dependents": ["c0000016", "c0000017"]
+  },
+  {
+    "id": "c5000009",
+    "fullName": "Hoang Van Minh",
+    "insuranceCard": "5000000009",
+    "claimsIDs": ["f000000018", "f000000019"],
+    "dependents": ["c0000018", "c0000019"]
+  },
+  {
+    "id": "c5000010",
+    "fullName": "Nguyen Thi Mai",
+    "insuranceCard": "5000000010",
+    "claimsIDs": ["f000000020", "f000000021"],
+    "dependents": ["c0000020", "c0000021"]
+  },
+  {
+    "id": "c5000011",
+    "fullName": "Tran Van Dung",
+    "insuranceCard": "5000000011",
+    "claimsIDs": ["f000000022", "f000000023"],
+    "dependents": ["c0000022", "c0000023"]
+  },
+  {
+    "id": "c5000012",
+    "fullName": "Le Thi Ngoc",
+    "insuranceCard": "5000000012",
+    "claimsIDs": ["f000000024", "f000000025"],
+    "dependents": ["c0000024", "c0000025"]
+  },
+  {
+    "id": "c5000013",
+    "fullName": "Nguyen Van Huy",
+    "insuranceCard": "5000000013",
+    "claimsIDs": ["f000000026", "f000000027"],
+    "dependents": ["c0000026", "c0000027"]
+  },
+  {
+    "id": "c5000014",
+    "fullName": "Tran Thi Hoa",
+    "insuranceCard": "5000000014",
+    "claimsIDs": ["f000000028", "f000000029"],
+    "dependents": ["c0000028", "c0000029"]
+  }
+]
