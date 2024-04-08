@@ -1,0 +1,92 @@
+[
+  {
+    "id": "c0000000",
+    "fullName": "Le Ngoc Hieu",
+    "insuranceCard": "0000000000",
+    "claimsIDs": ["f0000000000","f0000000001"]
+  },
+  {
+    "id": "c0000001",
+    "fullName": "Nguyen Van Anh",
+    "insuranceCard": "0000000001",
+    "claimsIDs": ["f0000000002","f0000000003"]
+  },
+  {
+    "id": "c0000002",
+    "fullName": "Tran Thi Mai",
+    "insuranceCard": "0000000002",
+    "claimsIDs": ["f0000000004", "f0000000005"]
+  },
+  {
+    "id": "c0000003",
+    "fullName": "Pham Quoc Tuan",
+    "insuranceCard": "0000000003",
+    "claimsIDs": ["f0000000006", "f0000000007"]
+  },
+  {
+    "id": "c0000004",
+    "fullName": "Hoang Thi Hien",
+    "insuranceCard": "0000000004",
+    "claimsIDs": ["f0000000008", "f0000000009"]
+  },
+  {
+    "id": "c0000005",
+    "fullName": "Vu Cong Duy",
+    "insuranceCard": "0000000005",
+    "claimsIDs": ["f0000000010", "f0000000011"]
+  },
+  {
+    "id": "c0000006",
+    "fullName": "Bui Thi Lan",
+    "insuranceCard": "0000000006",
+    "claimsIDs": ["f0000000012", "f0000000013"]
+  },
+  {
+    "id": "c0000007",
+    "fullName": "Nguyen Hoang Nam",
+    "insuranceCard": "0000000007",
+    "claimsIDs": ["f0000000014", "f0000000015"]
+  },
+  {
+    "id": "c0000008",
+    "fullName": "Le Thi Thu",
+    "insuranceCard": "0000000008",
+    "claimsIDs": ["f0000000016", "f0000000017"]
+  },
+  {
+    "id": "c0000009",
+    "fullName": "Tran Van Thanh",
+    "insuranceCard": "0000000009",
+    "claimsIDs": ["f0000000018", "f0000000019"]
+  },
+  {
+    "id": "c0000010",
+    "fullName": "Do Quang Hieu",
+    "insuranceCard": "0000000010",
+    "claimsIDs": ["f0000000020", "f0000000021"]
+  },
+  {
+    "id": "c0000011",
+    "fullName": "Nguyen Thi Trang",
+    "insuranceCard": "0000000011",
+    "claimsIDs": ["f0000000022", "f0000000023"]
+  },
+  {
+    "id": "c0000012",
+    "fullName": "Phan Van Long",
+    "insuranceCard": "0000000012",
+    "claimsIDs": ["f0000000024", "f0000000025"]
+  },
+  {
+    "id": "c0000013",
+    "fullName": "Nguyen Tien Nam",
+    "insuranceCard": "0000000013",
+    "claimsIDs": ["f0000000026", "f0000000027"]
+  },
+  {
+    "id": "c0000014",
+    "fullName": "Le Thi Thao",
+    "insuranceCard": "0000000014",
+    "claimsIDs": ["f0000000028", "f0000000029"]
+  }
+]
